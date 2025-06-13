@@ -1,7 +1,7 @@
 import ReminderCard from "./ReminderCard";
 import { groupRemindersByTime } from "../utils/helpers";
 import expandIcon from "../assets/expand.png";
-import dogFeet from "../assets/dogFeet.png";
+import dogFeet from "../assets/dogfeet.png";
 import clockIcon from "../assets/alarmclock.png";
 import repeatIcon from "../assets/everyday.png";
 import completedIcon from "../assets/Completed Icon.png";
