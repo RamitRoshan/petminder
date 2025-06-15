@@ -22,7 +22,7 @@ function Header() {
 
       {/* calendar Card */}
       <div className="bg-green-500 rounded-2xl p-5 mt-6 shadow-xl mx-2 sm:mx-0">
-        <h3 className="text-center text-white font-semibold text-lg mb-4">march 2023</h3>
+        <h3 className="text-center text-black font-semibold text-lg mb-4">march 2023</h3>
 
         <div className="flex flex-wrap justify-between text-black text-sm font-medium gap-y-4">
           {["Mo", "Tu", "We", "Th", "Fr", "Sa", "Su"].map((day, index) => {

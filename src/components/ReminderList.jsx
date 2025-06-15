@@ -72,6 +72,7 @@ function ReminderList({ reminders, onDelete, onUpdate }) {
           <img src={completedIcon} alt="completed icon" className="w-5 h-5" />
         </div>
       </div>
+      
     </div>
   );
 }

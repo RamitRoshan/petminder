@@ -13,14 +13,17 @@ function ReminderCard({ reminder }) {
             <FaPaw />
             <span>{reminder.pet}</span>
           </div>
+
           <div className="flex items-center gap-1">
             <FiClock />
             <span>At {reminder.time}</span>
           </div>
+
           <div className="flex items-center gap-1">
             <FiRepeat />
             <span>{reminder.frequency}</span>
           </div>
+          
         </div>
       </div>
 
